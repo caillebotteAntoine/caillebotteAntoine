@@ -15,7 +15,7 @@
   />
 </div>
 
-## Connect with me
+## Connect with me 🖇️
 
 <div>
   <a href="https://www.linkedin.com/in/antoine-caillebotte-776817130/" target="_blank">
@@ -31,23 +31,26 @@
   </a>
   <a href="https://hal.science/search/index/?q=*&authFullName_s=Antoine%20Caillebotte">
     <img
-      src= "https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab"
+      src="https://img.shields.io/badge/HAL science ouverte-00005c?style=for-the-badge&logo=hal"
+    />
+  </a>
+  <a href="https://sites.google.com/view/caillebotte-antoine/home">
+    <img
+      src="https://img.shields.io/badge/personal%20web%20site-814793?style=for-the-badge&logo=googledrive&logoColor=white"
     />
   </a>
 </div>
 
 ## About me ✨
 
-I do a lot of things around machine learning such as preparing
-servers, training models, developing products or deploying services. I love to
-explore new technologies and leverage them to solve real-life problems.
+Since october 2022, I'm a  PhD student supervised by [Estelle kuhn](https://genome.jouy.inra.fr/~ekuhn/), [Sarah Lemler](https://sites.google.com/view/sarah-lemler/accueil?authuser=0) and [Judith Legrand](https://moulon.inrae.fr/personnes/jlegrand/). I work at INRAE in the GQE-LeMoulon (Gif-sur-Yvette) and MaIAGE (Jouy-en-Josas) units. 
 
-- 🔭 I’m currently working at [Orange Bank](https://www.orangebank.fr/) in Paris, France. 🇫🇷
-- 🌱 I am currently improving my English.
-- 😄 Pronouns: He / Him
-- ⚡ Fun fact: I studied philosophy before learning programming.
+I am working on the selection of high-dimensional variables in statistics with applications in the biological field.
 
-## Some tools from my tech stack
+- 🔬 I’m currently working at [INRAE](https://www.inrae.fr/) in Jouy-en-Josas, France.
+- 🏃‍♂️Outside of work I take part in running and trail races
+
+## Some of the tools I use
 
 <table>
 <tr>
@@ -74,17 +77,6 @@ explore new technologies and leverage them to solve real-life problems.
     <span>python</span>
   </td>
   <td align="center">
-    <a href="https://www.anaconda.com/products/distribution" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"
-      />
-    </a>
-    <br>
-    <span>conda</span>
-  </td>
-  <td align="center">
     <a href="https://python-poetry.org/" target="_blank">
       <img
         height="46"
@@ -106,61 +98,7 @@ explore new technologies and leverage them to solve real-life problems.
     <br>
     <span>vscode</span>
   </td>
-  <td align="center">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-      />
-    <br>
-    <span>linux</span>
-  </td>
-  <td align="center">
-    <a href="https://fastapi.tiangolo.com/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
-      />
-    </a>
-    <br>
-    <span>fastapi</span>
-  </td>
-</tr>
 <tr>
-  <td align="center">
-    <a href="https://www.tensorflow.org/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
-      />
-    </a>
-    <br>
-    <span>tensorflow</span>
-  </td>
-  <td align="center">
-    <a href="https://scikit-learn.org/stable/" target="_blank">
-    <img
-      height="46"
-      width="46"
-      src="./img/sklearn.svg"
-    />
-    </a>
-    <br>
-    <span>sklearn</span>
-  </td>
-  <td align="center">
-    <a href="https://pandas.pydata.org/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-      />
-    </a>
-    <br>
-    <span>pandas</span>
-  </td>
   <td align="center">
     <a href="https://numpy.org/" target="_blank">
       <img
@@ -173,117 +111,36 @@ explore new technologies and leverage them to solve real-life problems.
     <span>numpy</span>
   </td>
   <td align="center">
-    <a href="https://huggingface.co/docs/transformers/index" target="_blank">
+    <a href="https://www.r-project.org/" target="_blank">
       <img
         height="46"
         width="46"
-        src="./img/transformers.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"
       />
     </a>
     <br>
-    <span>transformers</span>
+    <span>R</span>
   </td>
   <td align="center">
-    <a href="https://dvc.org/" target="_blank">
+    <a href="https://www.r-project.org/" target="_blank">
       <img
         height="46"
         width="46"
-        src="./img/dvc.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
       />
     </a>
     <br>
-    <span>DVC</span>
+    <span>C++</span>
   </td>
   <td align="center">
-    <a href="https://www.bentoml.com/" target="_blank">
+    <a href="https://www.r-project.org/" target="_blank">
       <img
         height="46"
         width="46"
-        src="./img/bentoml.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg"
       />
     </a>
     <br>
-    <span>bentoml</span>
-
+    <span>SDL</span>
   </td>
 </tr>
-<tr>
-  <td align="center">
-    <a href="https://aws.amazon.com/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
-      />
-    </a>
-    <br>
-    <span>aws</span>
-  </td>
-  <td align="center">
-    <a href="https://www.ansible.com/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"
-      />
-    </a>
-    <br>
-    <span>ansible</span>
-  </td>
-  <td align="center">
-    <a href="https://www.terraform.io/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"
-      />
-    </a>
-    <br>
-    <span>terraform</span>
-  </td>
-  <td align="center">
-    <a href="https://www.docker.com/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-      />
-    </a>
-    <br>
-    <span>docker</span>
-  </td>
-  <td align="center">
-    <a href="https://kubernetes.io/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
-      />
-    </a>
-    <br>
-    <span>kubernetes</span>
-  </td>
-  <td align="center">
-    <a href="https://www.jenkins.io/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"
-      />
-    </a>
-    <br>
-    <span>jenkins</span>
-  </td>
-  <td align="center">
-    <a href="https://www.elastic.co/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="./img/elasticsearch.svg"
-      />
-    </a>
-    <br>
-    <span>elasticsearch</span>
-  </td>
-</tr>
-</table>
