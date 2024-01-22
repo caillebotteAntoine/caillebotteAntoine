@@ -15,7 +15,7 @@
   />
 </div>
 
-## Connect with me 🖇️
+## 🖇️ Connect with me 
 
 <div>
   <a href="https://www.linkedin.com/in/antoine-caillebotte-776817130/" target="_blank">
@@ -41,7 +41,7 @@
   </a>
 </div>
 
-## About me ✨
+## ✨About me 
 
 Since october 2022, I'm a  PhD student supervised by [Estelle kuhn](https://genome.jouy.inra.fr/~ekuhn/), [Sarah Lemler](https://sites.google.com/view/sarah-lemler/accueil?authuser=0) and [Judith Legrand](https://moulon.inrae.fr/personnes/jlegrand/). I work at INRAE in the GQE-LeMoulon (Gif-sur-Yvette) and MaIAGE (Jouy-en-Josas) units. 
 
@@ -50,7 +50,7 @@ I am working on the selection of high-dimensional variables in statistics with a
 - 🔬 I’m currently working at [INRAE](https://www.inrae.fr/) in Jouy-en-Josas, France.
 - 🏃‍♂️Outside of work I take part in running and trail races
 
-## Some of the tools I use
+## 🛠 Some of the tools I use
 
 <table>
 <tr>
